@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Nishanth Vijayan"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Nishanth Vijayan"
+description              : "Thoughts,ramblings and rants"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -61,11 +61,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nishanth Vijayan"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Final year,Junior Undergraduate student @ IIT Ropar,India"
+  location         : "Rupnagar, Punjab, India"
+  email            : "nishanth.vijayan@iitrpr.ac.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "nishanthvijayan"
   google_plus      :
   keybase          :
   instagram        :
