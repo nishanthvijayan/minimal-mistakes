@@ -5,6 +5,7 @@ tags: [gsoc, fosdem, openSUSE, osem, rails, summer]
 author_profile: true
 comments: true
 read_time: true
+share: true
 ---
 \\
 \\
