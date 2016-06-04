@@ -42,13 +42,13 @@ My mentors [Stella Rouzi (differentreality)](https://github.com/differentreality
 \\
 \\
 In simple terms, my project is to track changes various aspects of a conference (events, schedule, call for papers etc), display changes made to these objects and also to take actions related to such changes.
-A major part of the project is to implement an interface which displays the previously mentions changes with options to revert and view the specifcs of each change.This would allow conference organizers and admins to be aware of all changes made and thus have better control over the organization of their conference.
+A major part of the project is to implement an interface which displays the previously mentioned changes with options to revert and view the specifcs of each change.This would allow conference organizers and admins to be aware of all changes made and thus have better control over the organization of their conference.
 \\
 \\
-I had worked on a college coursework related project ( also using Rails), where I had implement a similar changelog page.This experience came in handy as this made me familiar with gems required to implement such a system and this helped me set up a basic version of  such a page easily.
+I had worked on a college coursework related project ( also using Rails), where I had implemented a similar changelog page.This experience came in handy as this made me familiar with gems required to implement such a system and this helped me set up a basic version of  such a page easily.
 \\
 \\
-During the past 2 months, I've feel like I've learned a lot.My Ruby and Rails skills have improved considerably.I learned about tools like Vagrant, Travis, RuboCop and concepts like Code coverage.So I'm looking forward to an awesome summer experience.
+During the past 2 months,I've learned a lot.My Ruby and Rails skills have improved considerably.I learned about tools like Vagrant, Travis, RuboCop and concepts like Code coverage.So I'm looking forward to an awesome summer experience.
 \\
 \\
 I've implemented a basic version of a Changelog/ Revision History page and the code is [under review](https://github.com/openSUSE/osem/pull/1019). This has turned out to be much more complicated that I had imagined when I started coding (my college project had just 5 models that needed to be tracked, OSEM has 40+ :) ).But more on that later..
