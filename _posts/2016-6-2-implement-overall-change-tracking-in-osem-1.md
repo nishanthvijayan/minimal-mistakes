@@ -3,6 +3,7 @@ layout: single
 title: Implement overall change tracking system in OSEM
 tags: [gsoc, fosdem, openSUSE, osem, rails, summer]
 author_profile: true
+comments: true
 ---
 \\
 \\
