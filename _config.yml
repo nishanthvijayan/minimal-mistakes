@@ -11,7 +11,7 @@ title                    : "Nishanth Vijayan"
 title_separator          : "-"
 name                     : "Nishanth Vijayan"
 description              : "Thoughts,ramblings and rants"
-url                      : "http://nishanthvijayan.github.io"
+url                      : "https://nishanthvijayan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
