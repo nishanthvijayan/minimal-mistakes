@@ -20,7 +20,7 @@ share: true
 ( Hi, I'm Nishanth Vijayan.I'm an undergraduate student at the [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in), India, where I study Computer Science and Engineering.I'm currently in my 4th and final year.You can find me on GitHub @[nishanthvijayan](http://www.github.com/nishanthvijayan) and my IRC nick is the same.I'm an avid tech enthusiast and love all things Geek. )
 
 
-The Midterm Evaluation of my GSOC project is over, and I passed.
+The Midterm Evaluation of my GSOC project is over and I passed.
 Like I mentioned in my previous post, a major part of my project is to implement a Revision History page in OSEM, which will grant organizers and admins access to the history of changes that were made to a conference, users and their associated resources.
 
 ### Why have such a page?
@@ -87,7 +87,7 @@ TDD is what kept me sane, when adding new models.Every time I start tracking a n
 
 ### So far, so good
 During the course of the first half of the project, I learned many little quirks of Ruby and Rails (mostly Rails). 
-Many times during the project I had to go through the source code of paper_trail, the gem I used for tracking changes.I had to do this understand how certain things are implemented under the hood. I remember doing the same when working with paper_trail as part of my college project. But at that time, I was not able to make much sense of it.But this time was different. This was a refreshing experience as it made me realize how my ruby and rails skills have improved over the course of this project.
+Many times during the project I had to go through the source code of paper_trail, the gem I used for tracking changes.I had to do this to understand how certain things are implemented under the hood. I remember doing the same when working with paper_trail as part of my college project. But at that time, I was not able to make much sense of it.But this time was different. This was a great experience as it made me realize how my Ruby and Rails skills have improved over the course of this project.
 
 One big mistake that I made was not making opening a PR early on.Doing so would have helped me to identify style issues and other problems early on. 
 
