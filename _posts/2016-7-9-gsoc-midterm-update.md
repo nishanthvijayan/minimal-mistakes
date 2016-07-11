@@ -41,7 +41,7 @@ The aim of the first half of the project was to implement a Revision History/Cha
   <li>Changes should be revertible i.e for each change, the user should be able to restore its associated object to its form before that change.</li>
   </ul>
 
-I've implemented all of the above and have open a pull request. The PR is still undergoing review and will hopefully be merged soon. 
+I've implemented all of the above and have open a [pull request](https://github.com/openSUSE/osem/pull/1019). The PR is still undergoing review and will hopefully be merged soon. 
 This is the current state of the Revision History page I've implemented.
 
 
@@ -62,7 +62,7 @@ This is the current state of the Revision History page I've implemented.
   <img src="/images/revert.png" alt="OSEM Revision History" style="display: block;margin: 0 auto;"/>
 
 ### Challenges
-Previously, I had implemented a simple version of a Changelog page in a college project using the same gem (paper_trail) that I was planning to use in OSEM.
+Previously, I had implemented a simple version of a Changelog page in a [college project](https://github.com/nishanthvijayan/IEMS-backend) using the same gem ([paper_trail](https://github.com/airblade/paper_trail)) that I was planning to use in OSEM.
 So when I initially started coding, I was confident that I would be able to complete the feature in a fortnight.Boy, was I wrong!
 
 A large part of the difficulty that I had to face was in trying to describe changes. 28 types of objects meant a lot of cases.
@@ -87,7 +87,7 @@ TDD is what kept me sane, when adding new models.Every time I start tracking a n
 
 ### So far, so good
 During the course of the first half of the project, I learned many little quirks of Ruby and Rails (mostly Rails). 
-Many times during the project I had to go through the source code of paper_trail, the gem I used for tracking changes.I had to do this to understand how certain things are implemented under the hood. I remember doing the same when working with paper_trail as part of my college project. But at that time, I was not able to make much sense of it.But this time was different. This was a great experience as it made me realize how my Ruby and Rails skills have improved over the course of this project.
+Many times during the project I had to go through the source code of [paper_trail](https://github.com/airblade/paper_trail), the gem I used for tracking changes.I had to do this to understand how certain things are implemented under the hood. I remember doing the same when working with paper_trail as part of my college project. But at that time, I was not able to make much sense of it.But this time was different. This was a great experience as it made me realize how my Ruby and Rails skills have improved over the course of this project.
 
 One big mistake that I made was not making opening a PR early on.Doing so would have helped me to identify style issues and other problems early on. 
 
@@ -99,5 +99,5 @@ During the initial few weeks I used to write tests after implementing some featu
 In the next half of the project, I have to implement a set of small features.
 Since there are a few features to implement, the challenge now would be to identify and allocate time properly.
 It's a difficult job considering how I initially expected to finish my first task in 2 weeks :( .
-I've completed the first one and have open a pull request.
+I've completed the first one and have open a [pull request](https://github.com/openSUSE/osem/pull/1082).
 It deals with handling canceled events in a conference's schedule.I'll write more about it in my next post.
