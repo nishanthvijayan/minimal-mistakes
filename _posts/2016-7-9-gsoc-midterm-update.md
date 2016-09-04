@@ -6,6 +6,7 @@ author_profile: true
 comments: true
 read_time: true
 share: true
+excerpt: Why and How I built a Revision History page in OSEM.
 ---
 \\
 \\
